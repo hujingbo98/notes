@@ -64,6 +64,8 @@ Vim 操作范围的表示方法为：`.` 表示当前行，`$` 表示结束，`%
 
 `:set noexpandtab` 设置不用 space 代替 tab
 
+`:%retab` 根据当前设置，重置文件中的 tab
+
 在 Vim 里，使用 `set paste` 进入粘贴模式，会关闭自动缩进，使用 `set nopaste` 退出粘贴模式。
 
 ### substitute 替换
