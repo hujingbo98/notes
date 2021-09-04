@@ -1,5 +1,3 @@
-[toc]
-
 # Git
 
 Git 官网：<https://git-scm.com/>
