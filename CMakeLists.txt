@@ -27,10 +27,12 @@ include(GoogleTest)
 # file(GLOB ALGORITHM_SOURCE "${PROJECT_SOURCE_DIR}/source/algorithm/*.cpp")
 # file(GLOB DATASTRUCT_SOURCE "${PROJECT_SOURCE_DIR}/source/datastruct/*.cpp")
 file(GLOB LEETCODE_SOURCE "${PROJECT_SOURCE_DIR}/source/leetcode/*.cpp")
+file(GLOB JIANZHIOFFER_SOURCE "${PROJECT_SOURCE_DIR}/source/jianzhioffer/*.cpp")
 file(GLOB ALL_SOURCE
     # ${ALGORITHM_SOURCE}
     # ${DATASTRUCT_SOURCE}
     ${LEETCODE_SOURCE}
+    ${JIANZHIOFFER_SOURCE}
 )
 add_executable(${PROJECT_NAME} ${ALL_SOURCE})
 target_link_libraries(${PROJECT_NAME}
