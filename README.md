@@ -25,4 +25,4 @@ Algorithm learning source code and comment.
 
 编号/源地址|题目/解决方案|标签|难度
 :-:|:-|:-|-|
-[17.14](https://leetcode-cn.com/problems/smallest-k-lcci/)|[最小K个数](https://github.com/hujingbo98/algorithm/blob/master/source/interviewProblem/FibonacciSequence.cpp)|最大堆、快速排序|中等
+[17.14](https://leetcode-cn.com/problems/smallest-k-lcci/)|[最小K个数](https://github.com/hujingbo98/algorithm/blob/master/source/interviewProblem/17_14_SmallestKNumbers.cpp)|最大堆、快速排序|中等
