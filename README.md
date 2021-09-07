@@ -7,6 +7,7 @@ Algorithm learning source code and comment.
 编号/源地址|题目/解决方案|标签|难度
 :-:|:-|:-|-|
 [1704](https://leetcode-cn.com/problems/determine-if-string-halves-are-alike/)|[判断字符串的两半是否相似](https://github.com/hujingbo98/algorithm/blob/master/source/leetcode/1704_DetermineifStringHalvesAreAlike.cpp)|哈希直接定址|简单
+[1221](https://leetcode-cn.com/problems/split-a-string-in-balanced-strings/)|[分割平衡字符串](https://github.com/hujingbo98/algorithm/blob/master/source/leetcode/1704_DetermineifStringHalvesAreAlike.cpp)|贪心|简单
 [704](https://leetcode-cn.com/problems/binary-search/)|[二分查找](https://github.com/hujingbo98/algorithm/blob/master/source/leetcode/0704_BinarySearch.cpp)|二分查找|简单
 [470](https://leetcode-cn.com/problems/implement-rand10-using-rand7/)|[用 Rand7() 实现 Rand10()](https://github.com/hujingbo98/algorithm/blob/master/source/leetcode/0470_ImplementRand10UsingRand7.cpp)|拒绝采样|中等
 [165](https://leetcode-cn.com/problems/compare-version-numbers)|[比较版本号](https://github.com/hujingbo98/algorithm/blob/master/source/leetcode/0165_CompareVersionNumbers.cpp)|字符串切割、双指针|中等
