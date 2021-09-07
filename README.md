@@ -13,9 +13,15 @@ Algorithm learning source code and comment.
 [165](https://leetcode-cn.com/problems/compare-version-numbers)|[比较版本号](https://github.com/hujingbo98/algorithm/blob/master/source/leetcode/0165_CompareVersionNumbers.cpp)|字符串切割、双指针|中等
 [1](https://leetcode-cn.com/problems/two-sum/)|[两数之和](https://github.com/hujingbo98/algorithm/blob/master/source/leetcode/0001_TwoSum.cpp)|哈希表|简单
 
-## 剑指offer
+## LeetCode 中的剑指offer
 
 编号/源地址|题目/解决方案|标签|难度
 :-:|:-|:-|-|
 [22](https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/)|[链表中倒数第k个节点](https://github.com/hujingbo98/algorithm/blob/master/source/jianzhioffer/22_TheKthNodeFromTheBottomInTheLinkedList.cpp)|双指针-快慢指针|简单
 [10- I](https://leetcode-cn.com/problems/fei-bo-na-qi-shu-lie-lcof/)|[斐波那契数列](https://github.com/hujingbo98/algorithm/blob/master/source/jianzhioffer/10-I_FibonacciSequence.cpp)|动态规划、滚动数组、矩阵快速幂|简单
+
+## LeetCode 中的面试题
+
+编号/源地址|题目/解决方案|标签|难度
+:-:|:-|:-|-|
+[17.14](https://leetcode-cn.com/problems/smallest-k-lcci/)|[最小K个数](https://github.com/hujingbo98/algorithm/blob/master/source/interviewProblem/FibonacciSequence.cpp)|最大堆、快速排序|中等
