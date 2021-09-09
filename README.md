@@ -12,6 +12,7 @@ Algorithm learning source code and comment.
 [502](https://leetcode-cn.com/problems/ipo/)|[IPO](https://github.com/hujingbo98/algorithm/blob/master/source/leetcode/0502_IPO.cpp)|贪心、最大堆|困难
 [470](https://leetcode-cn.com/problems/implement-rand10-using-rand7/)|[用 Rand7() 实现 Rand10()](https://github.com/hujingbo98/algorithm/blob/master/source/leetcode/0470_ImplementRand10UsingRand7.cpp)|拒绝采样|中等
 [165](https://leetcode-cn.com/problems/compare-version-numbers)|[比较版本号](https://github.com/hujingbo98/algorithm/blob/master/source/leetcode/0165_CompareVersionNumbers.cpp)|字符串切割、双指针|中等
+[68](https://leetcode-cn.com/problems/text-justification)|[文本左右对齐](https://github.com/hujingbo98/algorithm/blob/master/source/leetcode/0068_TextJustification.cpp)|[贪心、模拟]|困难
 [1](https://leetcode-cn.com/problems/two-sum/)|[两数之和](https://github.com/hujingbo98/algorithm/blob/master/source/leetcode/0001_TwoSum.cpp)|哈希表|简单
 
 ## LeetCode 中的剑指offer
