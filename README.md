@@ -10,6 +10,7 @@ Algorithm learning source code and comment.
 [1704](https://leetcode-cn.com/problems/determine-if-string-halves-are-alike/)|[判断字符串的两半是否相似](https://github.com/hujingbo98/algorithm/blob/master/source/leetcode/1704_DetermineifStringHalvesAreAlike.cpp)|哈希直接定址|简单
 [1221](https://leetcode-cn.com/problems/split-a-string-in-balanced-strings/)|[分割平衡字符串](https://github.com/hujingbo98/algorithm/blob/master/source/leetcode/1704_DetermineifStringHalvesAreAlike.cpp)|贪心|简单
 [704](https://leetcode-cn.com/problems/binary-search/)|[二分查找](https://github.com/hujingbo98/algorithm/blob/master/source/leetcode/0704_BinarySearch.cpp)|二分查找|简单
+[678](https://leetcode-cn.com/problems/valid-parenthesis-string/)|[有效的括号字符串](https://github.com/hujingbo98/algorithm/blob/master/source/leetcode/0678_ValidParenthesisString.cpp)|栈、贪心|中等
 [600](https://leetcode-cn.com/problems/non-negative-integers-without-consecutive-ones/)|[不含连续1的非负整数](https://github.com/hujingbo98/algorithm/blob/master/source/leetcode/0600_Non-negativeIntegersWithoutConsecutiveOnes.cpp)|动态规划|困难
 [502](https://leetcode-cn.com/problems/ipo/)|[IPO](https://github.com/hujingbo98/algorithm/blob/master/source/leetcode/0502_IPO.cpp)|贪心、最大堆|困难
 [470](https://leetcode-cn.com/problems/implement-rand10-using-rand7/)|[用 Rand7() 实现 Rand10()](https://github.com/hujingbo98/algorithm/blob/master/source/leetcode/0470_ImplementRand10UsingRand7.cpp)|拒绝采样|中等
