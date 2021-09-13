@@ -111,7 +111,6 @@ public:
         else if (i + 1 > k)
             partition(arr, l, i, k);
     }
-
 };
 
 TEST(Solution, smallestK) {
