@@ -47,6 +47,11 @@ public:
      * 
      * 第 2 个问题可以通过遍历 dictionary 中的字符串，并维护当前长度最长且字典序最
      * 小的字符串来找到。
+     * 
+     * 时间复杂度为 O(d*(m+n))，其中 d 为 dictionary 的长度，m 为 s 的长度，n 为
+     * dictionary 中字符串的平均长度。我们需要遍历 dictionary 中的 d 个字符串，每
+     * 个字符串需要 O(m+n) 的时间复杂度来判断字符串是否为 s 的子序列。
+     * 空间复杂度为 O(1)。
      */
     string findLongestWord(string s, vector<string>& dictionary) {
         int n = s.length();
