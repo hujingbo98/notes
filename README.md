@@ -19,7 +19,8 @@ Algorithm learning source code and comment.
 [212](https://leetcode-cn.com/problems/word-search-ii/)|[单词搜索 II](https://github.com/hujingbo98/algorithm/blob/master/source/leetcode/0212_WordSearchII.cpp)|回溯、字典树(前缀树)|困难
 [165](https://leetcode-cn.com/problems/compare-version-numbers)|[比较版本号](https://github.com/hujingbo98/algorithm/blob/master/source/leetcode/0165_CompareVersionNumbers.cpp)|字符串切割、双指针|中等
 [162](https://leetcode-cn.com/problems/find-peak-element/)|[寻找峰值](https://github.com/hujingbo98/algorithm/blob/master/source/leetcode/0162_FindPeakElement.cpp)|二分查找|中等
-[68](https://leetcode-cn.com/problems/text-justification)|[文本左右对齐](https://github.com/hujingbo98/algorithm/blob/master/source/leetcode/0068_TextJustification.cpp)|[贪心、模拟]|困难
+[68](https://leetcode-cn.com/problems/text-justification)|[文本左右对齐](https://github.com/hujingbo98/algorithm/blob/master/source/leetcode/0068_TextJustification.cpp)|贪心、模拟|困难
+[36](https://leetcode-cn.com/problems/valid-sudoku/)|[有效的数独](https://github.com/hujingbo98/algorithm/blob/master/source/leetcode/0036_ValidSudoku.cpp)|暴力遍历一次|中等
 [1](https://leetcode-cn.com/problems/two-sum/)|[两数之和](https://github.com/hujingbo98/algorithm/blob/master/source/leetcode/0001_TwoSum.cpp)|哈希表|简单
 
 ## LeetCode 中的剑指offer
