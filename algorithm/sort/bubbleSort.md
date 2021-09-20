@@ -3,7 +3,7 @@
  * @Date   : 2021-09-20
 -->
 
-Source : <https://github.com/hujingbo98/algorithm/blob/master/source/algorithm/bubbleSort.cpp>
+Source : <https://github.com/hujingbo98/algorithm/blob/master/source/algorithm/sort/bubbleSort.cpp>
 
 ## 排序问题
 
