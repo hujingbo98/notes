@@ -11,6 +11,7 @@ Algorithm learning source code and comment.
 [1221](https://leetcode-cn.com/problems/split-a-string-in-balanced-strings/)|[分割平衡字符串](https://github.com/hujingbo98/algorithm/blob/master/source/leetcode/1704_DetermineifStringHalvesAreAlike.cpp)|贪心|简单
 [704](https://leetcode-cn.com/problems/binary-search/)|[二分查找](https://github.com/hujingbo98/algorithm/blob/master/source/leetcode/0704_BinarySearch.cpp)|二分查找|简单
 [678](https://leetcode-cn.com/problems/valid-parenthesis-string/)|[有效的括号字符串](https://github.com/hujingbo98/algorithm/blob/master/source/leetcode/0678_ValidParenthesisString.cpp)|栈、贪心|中等
+[673](https://leetcode-cn.com/problems/number-of-longest-increasing-subsequence/)|[最长递增子序列的个数](https://github.com/hujingbo98/algorithm/blob/master/source/leetcode/0673_NumberofLongestIncreasingSubsequence.cpp)|动态规划、贪心、前缀和、二分查找|中等
 [650](https://leetcode-cn.com/problems/2-keys-keyboard/)|[只有两个键的键盘](https://github.com/hujingbo98/algorithm/blob/master/source/leetcode/0650_2KeysKeyboard.cpp)|动态规划、分解质因数|中等
 [600](https://leetcode-cn.com/problems/non-negative-integers-without-consecutive-ones/)|[不含连续1的非负整数](https://github.com/hujingbo98/algorithm/blob/master/source/leetcode/0600_Non-negativeIntegersWithoutConsecutiveOnes.cpp)|动态规划|困难
 [524](https://leetcode-cn.com/problems/longest-word-in-dictionary-through-deleting/)|[通过删除字母匹配到字典里最长单词](https://github.com/hujingbo98/algorithm/blob/master/source/leetcode/0524_LongestWordInDictionaryThroughDeleting.cpp)|双指针|中等
