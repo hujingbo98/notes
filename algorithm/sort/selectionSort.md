@@ -12,7 +12,7 @@ Source : <https://github.com/hujingbo98/algorithm/blob/master/source/algorithm/s
 输出：输出序列的一个排列 {a[0]', a[1]', ... , a[n-1]'}，其中 a[0]' <= a[1]' <= ... <= a[n-1]'。
 ```
 
-## 选择排序(Selection Sort)
+## 选择排序 (Selection Sort)
 
 在未排序序列中重复查找最小元素（升序），将其放在开头来对数组进行排序。该算法在给定数组中维护两个子数组：
 

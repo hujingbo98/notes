@@ -12,7 +12,7 @@ Source : <https://github.com/hujingbo98/algorithm/blob/master/source/algorithm/s
 输出：输出序列的一个排列 {a[0]', a[1]', ... , a[n-1]'}，其中 a[0]' <= a[1]' <= ... <= a[n-1]'。
 ```
 
-## 冒泡排序
+## 冒泡排序 (Bubble Sort)
 
 冒泡排序是一种简单的排序算法。它重复地走访过要排序的数列，一次比较两个元素，如果它们的顺序错误就把它们交换过来。
 
