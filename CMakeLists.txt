@@ -25,12 +25,14 @@ FetchContent_MakeAvailable(googletest)
 enable_testing()
 include(GoogleTest)
 file(GLOB ALGORITHM_SOURCE "${PROJECT_SOURCE_DIR}/source/algorithm/*.cpp")
+file(GLOB ALGORITHM_SORT_SOURCE "${PROJECT_SOURCE_DIR}/source/algorithm/sort/*.cpp")
 file(GLOB DATASTRUCT_SOURCE "${PROJECT_SOURCE_DIR}/source/datastruct/*.cpp")
 file(GLOB LEETCODE_SOURCE "${PROJECT_SOURCE_DIR}/source/leetcode/*.cpp")
 file(GLOB JIANZHIOFFER_SOURCE "${PROJECT_SOURCE_DIR}/source/jianzhioffer/*.cpp")
 file(GLOB INTERVIEWPROBLEM_SOURCE "${PROJECT_SOURCE_DIR}/source/interviewProblem/*.cpp")
 file(GLOB ALL_SOURCE
     ${ALGORITHM_SOURCE}
+    ${ALGORITHM_SORT_SOURCE}
     ${DATASTRUCT_SOURCE}
     ${LEETCODE_SOURCE}
     ${JIANZHIOFFER_SOURCE}

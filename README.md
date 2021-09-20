@@ -4,9 +4,12 @@ Algorithm learning source code and comment.
 
 ## Sort
 
-排序方法/源地址|平均时间复杂度|最坏时间复杂度|最好时间复杂度|空间复杂度|排序方式|稳定性
-:-:|:-:|:-:|:-:|:-:|:-:|:-:
-[冒泡排序](https://github.com/hujingbo98/algorithm/blob/master/source/algorithm/bubbleSort.cpp)|O(n^2)|O(n^2)|O(n)|O(1)|In-place|稳定
+排序方法/源地址|平均时间复杂度|最坏时间复杂度|最好时间复杂度|空间复杂度|稳定性
+:-:|:-:|:-:|:-:|:-:|:-:
+[冒泡排序](https://github.com/hujingbo98/algorithm/blob/master/source/algorithm/sort/bubbleSort.cpp)|O(n^2)|O(n^2)|O(n)|O(1)|稳定
+[选择排序](https://github.com/hujingbo98/algorithm/blob/master/source/algorithm/sort/selectionSort.cpp)|O(n^2)|O(n^2)|O(n^2)|O(1)|不稳定
+
+其中 n 表示数列的长度。稳定表示排序后 2 个相等键值的顺序和排序之前它们的顺序相同，反之，则不稳定。
 
 ## LeetCode
 
