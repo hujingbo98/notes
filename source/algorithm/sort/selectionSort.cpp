@@ -18,7 +18,7 @@ using namespace std;
  */
 
 /**
- * 选择排序(Selection Sort)
+ * 选择排序 (Selection Sort)
  * 
  * 在未排序序列中重复查找最小元素（升序），将其放在开头来对数组进行排序。该算法在给
  * 定数组中维护两个子数组：
