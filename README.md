@@ -29,6 +29,7 @@ Algorithm learning source code and comment.
 [502](https://leetcode-cn.com/problems/ipo/)|[IPO](https://github.com/hujingbo98/algorithm/blob/master/source/leetcode/0502_IPO.cpp)|贪心、最大堆|困难
 [470](https://leetcode-cn.com/problems/implement-rand10-using-rand7/)|[用 Rand7() 实现 Rand10()](https://github.com/hujingbo98/algorithm/blob/master/source/leetcode/0470_ImplementRand10UsingRand7.cpp)|拒绝采样|中等
 [447](https://leetcode-cn.com/problems/number-of-boomerangs/)|[回旋镖的数量](https://github.com/hujingbo98/algorithm/blob/master/source/leetcode/0447_NumberOfBoomerangs.cpp)|枚举、哈希表|中等
+[430](https://leetcode-cn.com/problems/flatten-a-multilevel-doubly-linked-list/)|[扁平化多级双向链表](https://github.com/hujingbo98/algorithm/blob/master/source/leetcode/0430_FlattenAMultilevelDoublyLinkedList.cpp)|深度优先搜索、栈|中等
 [326](https://leetcode-cn.com/problems/power-of-three/)|[3的幂](https://github.com/hujingbo98/algorithm/blob/master/source/leetcode/0326_PowerOfThree.cpp)|试除法、约数|简单
 [292](https://leetcode-cn.com/problems/nim-game/)|[Nim 游戏](https://github.com/hujingbo98/algorithm/blob/master/source/leetcode/0292_NimGame.cpp)|数学推理|简单
 [212](https://leetcode-cn.com/problems/word-search-ii/)|[单词搜索 II](https://github.com/hujingbo98/algorithm/blob/master/source/leetcode/0212_WordSearchII.cpp)|回溯、字典树(前缀树)|困难
