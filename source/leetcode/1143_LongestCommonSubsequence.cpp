@@ -73,6 +73,11 @@ public:
      *             max(dp[i-1][j], dp[i][j-1])  text1[i-1] != text2[j-1]
      * 
      * 最终计算得到 dp[m][n] 即为 text1 和 text2 的最长公共子序列的长度。
+     * 
+     * 时间复杂度是 O(mn)，其中 m 和 n 分别是 text1 和 text2 的长度。二维数组 dp
+     * 有 m+1 行和 n+1 列，需要对每个元素进行计算。
+     * 
+     * 空间复杂度是 O(mn)。创建了 m+1 行 n+1 列的二维数组 dp。
      */
     int longestCommonSubsequence(string text1, string text2) {
         int m = text1.length();
