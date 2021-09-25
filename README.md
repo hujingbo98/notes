@@ -19,7 +19,7 @@ Algorithm learning source code and comment.
 [1894](https://leetcode-cn.com/problems/find-the-student-that-will-replace-the-chalk)|[找到需要补充粉笔的学生编号](https://github.com/hujingbo98/algorithm/blob/master/source/leetcode/1894_FindTheStudentThatWillReplaceTheChalk.cpp)|模拟、前缀和、二分查找|中等
 [1704](https://leetcode-cn.com/problems/determine-if-string-halves-are-alike/)|[判断字符串的两半是否相似](https://github.com/hujingbo98/algorithm/blob/master/source/leetcode/1704_DetermineifStringHalvesAreAlike.cpp)|哈希直接定址|简单
 [1221](https://leetcode-cn.com/problems/split-a-string-in-balanced-strings/)|[分割平衡字符串](https://github.com/hujingbo98/algorithm/blob/master/source/leetcode/1704_DetermineifStringHalvesAreAlike.cpp)|贪心|简单
-[1143](https://leetcode-cn.com/problems/longest-common-subsequence/)|[最长公共子序列](https://github.com/hujingbo98/algorithm/blob/master/source/leetcode/1704_DetermineifStringHalvesAreAlike.cpp)|动态规划|中等
+[1143](https://leetcode-cn.com/problems/longest-common-subsequence/)|[最长公共子序列](https://github.com/hujingbo98/algorithm/blob/master/source/leetcode/1143_LongestCommonSubsequence.cpp)|动态规划|中等
 [725](https://leetcode-cn.com/problems/split-linked-list-in-parts/)|[分隔链表](https://github.com/hujingbo98/algorithm/blob/master/source/leetcode/0725_SplitLinkedListInParts.cpp)|分隔链表|中等
 [704](https://leetcode-cn.com/problems/binary-search/)|[二分查找](https://github.com/hujingbo98/algorithm/blob/master/source/leetcode/0704_BinarySearch.cpp)|二分查找|简单
 [678](https://leetcode-cn.com/problems/valid-parenthesis-string/)|[有效的括号字符串](https://github.com/hujingbo98/algorithm/blob/master/source/leetcode/0678_ValidParenthesisString.cpp)|栈、贪心|中等
