@@ -46,6 +46,10 @@ Solution Source : <https://github.com/hujingbo98/algorithm/blob/master/source/le
 
 两个矩形的水平边投影的 x 轴上的线段分别为 [ax1, ax2] 和 [bx1, bx2]，数值边投影到 y 轴上的线段分别为 [ay1, ay2] 和 [by1, by2]。如果两个矩形重叠，则重叠部分的水平边投影到 x 轴上的线段为 m = [max(ax1, bx1), min(ax2, bx2)]，竖直边投影到 y 轴上的线段为 n = [max(ay1, by1), min(ay2, by2)]，根据 m 和 n 的长度可以计算重叠部分的面积。只有当 m 和 n 的长度都大于 0 时，两个矩形才有重叠部分。
 
+时间复杂度是 O(1)。
+
+空间复杂度是 O(1)。
+
 ```c++
 int computeArea(int ax1, int ay1, int ax2, int ay2,
                 int bx1, int by1, int bx2, int by2) {
