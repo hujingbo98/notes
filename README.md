@@ -27,6 +27,7 @@ Algorithm learning source code and comment.
 [650](https://leetcode-cn.com/problems/2-keys-keyboard/)|[只有两个键的键盘](https://github.com/hujingbo98/algorithm/blob/master/source/leetcode/0650_2KeysKeyboard.cpp)|动态规划、分解质因数|中等
 [600](https://leetcode-cn.com/problems/non-negative-integers-without-consecutive-ones/)|[不含连续1的非负整数](https://github.com/hujingbo98/algorithm/blob/master/source/leetcode/0600_Non-negativeIntegersWithoutConsecutiveOnes.cpp)|动态规划|困难
 [524](https://leetcode-cn.com/problems/longest-word-in-dictionary-through-deleting/)|[通过删除字母匹配到字典里最长单词](https://github.com/hujingbo98/algorithm/blob/master/source/leetcode/0524_LongestWordInDictionaryThroughDeleting.cpp)|双指针|中等
+[517](https://leetcode-cn.com/problems/super-washing-machines/)|[超级洗衣机](https://github.com/hujingbo98/algorithm/blob/master/source/leetcode/0517_SuperWashingMachines.cpp)|贪心|困难
 [502](https://leetcode-cn.com/problems/ipo/)|[IPO](https://github.com/hujingbo98/algorithm/blob/master/source/leetcode/0502_IPO.cpp)|贪心、最大堆|困难
 [470](https://leetcode-cn.com/problems/implement-rand10-using-rand7/)|[用 Rand7() 实现 Rand10()](https://github.com/hujingbo98/algorithm/blob/master/source/leetcode/0470_ImplementRand10UsingRand7.cpp)|拒绝采样|中等
 [447](https://leetcode-cn.com/problems/number-of-boomerangs/)|[回旋镖的数量](https://github.com/hujingbo98/algorithm/blob/master/source/leetcode/0447_NumberOfBoomerangs.cpp)|枚举、哈希表|中等
