@@ -25,7 +25,7 @@
  * 输出：16
  * 
  * 提示：
- * -104 <= ax1, ay1, ax2, ay2, bx1, by1, bx2, by2 <= 104
+ * -10^4 <= ax1, ay1, ax2, ay2, bx1, by1, bx2, by2 <= 10^4
  */
 
 #include <algorithm>
@@ -49,6 +49,10 @@ public:
      * 投影到 y 轴上的线段为 n = [max(ay1, by1), min(ay2, by2)]，根据 m 和 n 的长
      * 度可以计算重叠部分的面积。只有当 m 和 n 的长度都大于 0 时，两个矩形才有重叠部
      * 分。
+     * 
+     * 时间复杂度是 O(1)。
+     * 
+     * 空间复杂度是 O(1)。
      */
     int computeArea(int ax1, int ay1, int ax2, int ay2,
                     int bx1, int by1, int bx2, int by2) {
