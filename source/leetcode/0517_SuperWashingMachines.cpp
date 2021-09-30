@@ -66,11 +66,8 @@ public:
      * 为正则说明要移出 machines[i]' 件衣物，为负则说明要移入 -machines[i]' 件衣物。
      * 
      * 将前 i 台洗衣机看成一组，记作 A，其余洗衣机看成另一组，记作 B。
-     * 
-     * 我们遍历数组，当遍历到 machines[i] 时，我们把数组分为两组，A 组 [0, i]，
-     * B 组 [i, nsize-1]。设 sum[i] = sigma[j=0, i](machines[i]')，若 sum[i] 为
-     * 正则说明需要从 A 向 B 移入 sum[i] 件衣物，为负则说明需要从 B 向 A 移入 -sum[i]
-     * 件衣物。
+     * 设 sum[i] = sigma[j=0, i](machines[i]')，若 sum[i] 为正则说明需要从 A 向 B
+     * 移入 sum[i] 件衣物，为负则说明需要从 B 向 A 移入 -sum[i] 件衣物。
      * 
      * 我们分两种情况来考虑操作步数：
      *  1. A 与 B 两组之间的衣物，最多需要 max[i=0, n-1](|sum[i]|) 次衣物移动。
