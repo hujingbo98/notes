@@ -18,7 +18,7 @@ Algorithm learning source code and comment.
 :-:|:-|:-|-|
 [1894](https://leetcode-cn.com/problems/find-the-student-that-will-replace-the-chalk)|[找到需要补充粉笔的学生编号](https://github.com/hujingbo98/algorithm/blob/master/source/leetcode/1894_FindTheStudentThatWillReplaceTheChalk.cpp)|模拟、前缀和、二分查找|中等
 [1704](https://leetcode-cn.com/problems/determine-if-string-halves-are-alike/)|[判断字符串的两半是否相似](https://github.com/hujingbo98/algorithm/blob/master/source/leetcode/1704_DetermineifStringHalvesAreAlike.cpp)|哈希直接定址|简单
-[1436](https://leetcode-cn.com/problems/destination-city/)|[旅行终点站](https://github.com/hujingbo98/algorithm/blob/master/source/leetcode/.1436_DestinationCity.cpp)|哈希表|简单
+[1436](https://leetcode-cn.com/problems/destination-city/)|[旅行终点站](https://github.com/hujingbo98/algorithm/blob/master/source/leetcode/1436_DestinationCity.cpp)|哈希表|简单
 [1221](https://leetcode-cn.com/problems/split-a-string-in-balanced-strings/)|[分割平衡字符串](https://github.com/hujingbo98/algorithm/blob/master/source/leetcode/1704_DetermineifStringHalvesAreAlike.cpp)|贪心|简单
 [1143](https://leetcode-cn.com/problems/longest-common-subsequence/)|[最长公共子序列](https://github.com/hujingbo98/algorithm/blob/master/source/leetcode/1143_LongestCommonSubsequence.cpp)|动态规划|中等
 [725](https://leetcode-cn.com/problems/split-linked-list-in-parts/)|[分隔链表](https://github.com/hujingbo98/algorithm/blob/master/source/leetcode/0725_SplitLinkedListInParts.cpp)|分隔链表|中等
