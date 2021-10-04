@@ -30,6 +30,7 @@ Algorithm learning source code and comment.
 [524](https://leetcode-cn.com/problems/longest-word-in-dictionary-through-deleting/)|[通过删除字母匹配到字典里最长单词](https://github.com/hujingbo98/algorithm/blob/master/source/leetcode/0524_LongestWordInDictionaryThroughDeleting.cpp)|双指针|中等
 [517](https://leetcode-cn.com/problems/super-washing-machines/)|[超级洗衣机](https://github.com/hujingbo98/algorithm/blob/master/source/leetcode/0517_SuperWashingMachines.cpp)|贪心|困难
 [502](https://leetcode-cn.com/problems/ipo/)|[IPO](https://github.com/hujingbo98/algorithm/blob/master/source/leetcode/0502_IPO.cpp)|贪心、最大堆|困难
+[482](https://leetcode-cn.com/problems/license-key-formatting/)|[密钥格式化](https://github.com/hujingbo98/algorithm/blob/master/source/leetcode/0482_LicenseKeyFormatting.cpp)|数学|简单
 [470](https://leetcode-cn.com/problems/implement-rand10-using-rand7/)|[用 Rand7() 实现 Rand10()](https://github.com/hujingbo98/algorithm/blob/master/source/leetcode/0470_ImplementRand10UsingRand7.cpp)|拒绝采样|中等
 [447](https://leetcode-cn.com/problems/number-of-boomerangs/)|[回旋镖的数量](https://github.com/hujingbo98/algorithm/blob/master/source/leetcode/0447_NumberOfBoomerangs.cpp)|枚举、哈希表|中等
 [430](https://leetcode-cn.com/problems/flatten-a-multilevel-doubly-linked-list/)|[扁平化多级双向链表](https://github.com/hujingbo98/algorithm/blob/master/source/leetcode/0430_FlattenAMultilevelDoublyLinkedList.cpp)|深度优先搜索、栈|中等
