@@ -10,6 +10,7 @@ Algorithm learning source code and comment.
 [选择排序](https://github.com/hujingbo98/algorithm/blob/master/source/algorithm/sort/selectionSort.cpp)|O(n^2)|O(n^2)|O(n^2)|O(1)|不稳定
 [插入排序](https://github.com/hujingbo98/algorithm/blob/master/source/algorithm/sort/insertionSort.cpp)|O(n^2)|O(n^2)|O(n)|O(1)|稳定
 [希尔排序](https://github.com/hujingbo98/algorithm/blob/master/source/algorithm/sort/shellSort.cpp)|O(n^1.3)|O(n^2)|O(n)|O(1)|不稳定
+[归并排序](https://github.com/hujingbo98/algorithm/blob/master/source/algorithm/sort/mergeSort.cpp)|O(nlogn)|O(nlogn)|O(nlogn)|O(n)|稳定
 
 其中 n 表示数列的长度。稳定表示排序后 2 个相等键值的顺序和排序之前它们的顺序相同，反之，则不稳定。
 
