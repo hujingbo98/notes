@@ -37,6 +37,7 @@ Algorithm learning source code and comment.
 [447](https://leetcode-cn.com/problems/number-of-boomerangs/)|[回旋镖的数量](https://github.com/hujingbo98/algorithm/blob/master/source/leetcode/0447_NumberOfBoomerangs.cpp)|枚举、哈希表|中等
 [437](https://leetcode-cn.com/problems/path-sum-iii/)|[路径总和 III](https://github.com/hujingbo98/algorithm/blob/master/source/leetcode/0437_PathSumIII.cpp)|深度优先搜索、前缀和|中等
 [430](https://leetcode-cn.com/problems/flatten-a-multilevel-doubly-linked-list/)|[扁平化多级双向链表](https://github.com/hujingbo98/algorithm/blob/master/source/leetcode/0430_FlattenAMultilevelDoublyLinkedList.cpp)|深度优先搜索、栈|中等
+[414](https://leetcode-cn.com/problems/third-maximum-number/)|[第三大的数](https://github.com/hujingbo98/algorithm/blob/master/source/leetcode/0414_ThirdMaximumNumber.cpp)|有序元素不重复集合|简单
 [326](https://leetcode-cn.com/problems/power-of-three/)|[3的幂](https://github.com/hujingbo98/algorithm/blob/master/source/leetcode/0326_PowerOfThree.cpp)|试除法、约数|简单
 [405](https://leetcode-cn.com/problems/convert-a-number-to-hexadecimal/)|[数字转换为十六进制数](https://github.com/hujingbo98/algorithm/blob/master/source/leetcode/0405_ConvertANumberToHexadecimal.cpp)|位运算|简单
 [292](https://leetcode-cn.com/problems/nim-game/)|[Nim 游戏](https://github.com/hujingbo98/algorithm/blob/master/source/leetcode/0292_NimGame.cpp)|数学推理|简单
