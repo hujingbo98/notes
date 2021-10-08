@@ -48,6 +48,7 @@ Algorithm learning source code and comment.
 [284](https://leetcode-cn.com/problems/peeking-iterator/)|[窥探迭代器](https://github.com/hujingbo98/algorithm/blob/master/source/leetcode/0284_PeekingIterator.cpp)|迭代器|中等
 [223](https://leetcode-cn.com/problems/rectangle-area/)|[矩形面积](https://github.com/hujingbo98/algorithm/blob/master/source/leetcode/0223_RectangleArea.cpp)|坐标系|中等
 [212](https://leetcode-cn.com/problems/word-search-ii/)|[单词搜索 II](https://github.com/hujingbo98/algorithm/blob/master/source/leetcode/0212_WordSearchII.cpp)|回溯、字典树(前缀树)|困难
+[187](https://leetcode-cn.com/problems/repeated-dna-sequences/)|[重复的DNA序列](https://github.com/hujingbo98/algorithm/blob/master/source/leetcode/0187_RepeatedDNASequences.cpp)|哈希表、滑动窗口、位运算|中等
 [166](https://leetcode-cn.com/problems/fraction-to-recurring-decimal/)|[分数到小数](https://github.com/hujingbo98/algorithm/blob/master/source/leetcode/0166_FractionToRecurringDecimal.cpp)|长除法、哈希表|中等
 [165](https://leetcode-cn.com/problems/compare-version-numbers)|[比较版本号](https://github.com/hujingbo98/algorithm/blob/master/source/leetcode/0165_CompareVersionNumbers.cpp)|字符串切割、双指针|中等
 [162](https://leetcode-cn.com/problems/find-peak-element/)|[寻找峰值](https://github.com/hujingbo98/algorithm/blob/master/source/leetcode/0162_FindPeakElement.cpp)|二分查找|中等
