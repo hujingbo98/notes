@@ -4,7 +4,7 @@
 -->
 
 Problem Source : <https://leetcode-cn.com/problems/number-of-boomerangs/>
-Solution Source : <https://github.com/hujingbo98/algorithm/blob/master/source/leetcode/0447_NumberOfBoomerangs.cpp>
+Solution Source : <https://github.com/hujingbo98/notes/blob/master/code/source/leetcode/0447_NumberOfBoomerangs.cpp>
 
 447、回旋镖的数量
 

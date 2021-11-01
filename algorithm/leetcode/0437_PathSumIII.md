@@ -5,7 +5,7 @@
 
 Problem Source : <https://leetcode-cn.com/problems/path-sum-iii/>
 
-Solution Source : <https://github.com/hujingbo98/algorithm/blob/master/source/leetcode/0437_PathSumIII.cpp>
+Solution Source : <https://github.com/hujingbo98/notes/blob/master/code/source/leetcode/0437_PathSumIII.cpp>
 
 437、路径总和 III
 

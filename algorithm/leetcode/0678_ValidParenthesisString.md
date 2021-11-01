@@ -4,7 +4,7 @@
 -->
 
 Problem Source : <https://leetcode-cn.com/problems/valid-parenthesis-string/>
-Solution Source : <https://github.com/hujingbo98/algorithm/blob/master/source/leetcode/0678_ValidParenthesisString.cpp>
+Solution Source : <https://github.com/hujingbo98/notes/blob/master/code/source/leetcode/0678_ValidParenthesisString.cpp>
 
 678、有效的括号字符串
 

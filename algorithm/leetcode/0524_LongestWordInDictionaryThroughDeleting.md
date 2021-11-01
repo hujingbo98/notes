@@ -4,7 +4,7 @@
 -->
 
 Problem Source : <https://leetcode-cn.com/problems/longest-word-in-dictionary-through-deleting/>
-Solution Source : <https://github.com/hujingbo98/algorithm/blob/master/source/leetcode/0524_LongestWordInDictionaryThroughDeleting.cpp>
+Solution Source : <https://github.com/hujingbo98/notes/blob/master/code/source/leetcode/0524_LongestWordInDictionaryThroughDeleting.cpp>
 
 524、通过删除字母匹配到字典里最长单词
 

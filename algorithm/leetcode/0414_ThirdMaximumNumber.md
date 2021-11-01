@@ -5,7 +5,7 @@
 
 Problem Source : <https://leetcode-cn.com/problems/third-maximum-number/>
 
-Solution Source : <https://github.com/hujingbo98/algorithm/blob/master/source/leetcode/0414_ThirdMaximumNumber.cpp>
+Solution Source : <https://github.com/hujingbo98/notes/blob/master/code/source/leetcode/0414_ThirdMaximumNumber.cpp>
 
 ## 414、第三大的数
 

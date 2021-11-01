@@ -4,7 +4,7 @@
 -->
 
 Problem Source : <https://leetcode-cn.com/problems/fei-bo-na-qi-shu-lie-lcof/>
-Solution Source : <https://github.com/hujingbo98/algorithm/blob/master/source/jianzhioffer/10-I_FibonacciSequence.cpp>
+Solution Source : <https://github.com/hujingbo98/notes/blob/master/code/source/jianzhioffer/10-I_FibonacciSequence.cpp>
 
 剑指 Offer 10- I. 斐波那契数列
 

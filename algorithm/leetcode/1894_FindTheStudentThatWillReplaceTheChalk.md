@@ -4,7 +4,7 @@
 -->
 
 Problem Source : <https://leetcode-cn.com/problems/find-the-student-that-will-replace-the-chalk>
-Solution Source : <https://github.com/hujingbo98/algorithm/blob/master/source/leetcode/1894_FindTheStudentThatWillReplaceTheChalk.cpp>
+Solution Source : <https://github.com/hujingbo98/notes/blob/master/code/source/leetcode/1894_FindTheStudentThatWillReplaceTheChalk.cpp>
 
 1894、找到需要补充粉笔的学生编号
 

@@ -5,7 +5,7 @@
 
 Problem Source : <https://leetcode-cn.com/problems/number-of-longest-increasing-subsequence/>
 
-Solution Source : <https://github.com/hujingbo98/algorithm/blob/master/source/leetcode/0673_NumberofLongestIncreasingSubsequence.cpp>
+Solution Source : <https://github.com/hujingbo98/notes/blob/master/code/source/leetcode/0673_NumberofLongestIncreasingSubsequence.cpp>
 
 ## 673、最长递增子序列的个数
 

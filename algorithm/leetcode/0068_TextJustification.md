@@ -4,7 +4,7 @@
 -->
 
 Problem source : <https://leetcode-cn.com/problems/text-justification>
-Solution source : <https://github.com/hujingbo98/algorithm/blob/master/source/leetcode/0068_TextJustification.cpp>
+Solution source : <https://github.com/hujingbo98/notes/blob/master/code/source/leetcode/0068_TextJustification.cpp>
 
 68、文本左右对齐
 

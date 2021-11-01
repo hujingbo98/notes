@@ -5,7 +5,7 @@
 
 Problem Source : <https://leetcode-cn.com/problems/number-of-segments-in-a-string/>
 
-Solution Source : <https://github.com/hujingbo98/algorithm/blob/master/source/leetcode/0434_NumberOfSegmentsInAString.cpp>
+Solution Source : <https://github.com/hujingbo98/notes/blob/master/code/source/leetcode/0434_NumberOfSegmentsInAString.cpp>
 
 ## 434、字符串中的单词数
 

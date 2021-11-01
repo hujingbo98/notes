@@ -5,7 +5,7 @@
 
 Problem Source : <https://leetcode-cn.com/problems/valid-sudoku/>
 
-Solution Source : <https://github.com/hujingbo98/algorithm/blob/master/source/leetcode/0036_ValidSudoku.cpp>
+Solution Source : <https://github.com/hujingbo98/notes/blob/master/code/source/leetcode/0036_ValidSudoku.cpp>
 
 ## 36、有效的数独
 

@@ -5,7 +5,7 @@
 
 Problem Source : <https://leetcode-cn.com/problems/fraction-to-recurring-decimal/>
 
-Solution Source : <https://github.com/hujingbo98/algorithm/blob/master/source/leetcode/0166_FractionToRecurringDecimal.cpp>
+Solution Source : <https://github.com/hujingbo98/notes/blob/master/code/source/leetcode/0166_FractionToRecurringDecimal.cpp>
 
 ## 166、分数到小数
 

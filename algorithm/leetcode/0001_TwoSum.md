@@ -3,7 +3,7 @@
  * @Date   : 2021-09-09
 -->
 Problem source : <https://leetcode-cn.com/problems/two-sum>
-Solution source : <https://github.com/hujingbo98/algorithm/blob/master/source/leetcode/0001_TwoSum.cpp>
+Solution source : <https://github.com/hujingbo98/notes/blob/master/code/source/leetcode/0001_TwoSum.cpp>
 
 1、两数之和
 

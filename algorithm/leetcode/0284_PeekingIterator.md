@@ -5,7 +5,7 @@
 
 Problem Source : <https://leetcode-cn.com/problems/peeking-iterator/>
 
-Solution Source : <https://github.com/hujingbo98/algorithm/blob/master/source/leetcode/0284_PeekingIterator.cpp>
+Solution Source : <https://github.com/hujingbo98/notes/blob/master/code/source/leetcode/0284_PeekingIterator.cpp>
 
 ## 284、窥探迭代器
 

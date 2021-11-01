@@ -5,7 +5,7 @@
 
 Problem Source : <https://leetcode-cn.com/problems/repeated-dna-sequences/>
 
-Solution Source : <https://github.com/hujingbo98/algorithm/blob/master/source/leetcode/0187_RepeatedDNASequences.cpp>
+Solution Source : <https://github.com/hujingbo98/notes/blob/master/code/source/leetcode/0187_RepeatedDNASequences.cpp>
 
 ## 187、重复的DNA序列
 

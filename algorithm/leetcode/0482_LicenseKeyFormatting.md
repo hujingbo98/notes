@@ -5,7 +5,7 @@
 
 Problem Source : <https://leetcode-cn.com/problems/license-key-formatting/>
 
-Solution Source : <https://github.com/hujingbo98/algorithm/blob/master/source/leetcode/0482_LicenseKeyFormatting.cpp>
+Solution Source : <https://github.com/hujingbo98/notes/blob/master/code/source/leetcode/0482_LicenseKeyFormatting.cpp>
 
 ## 482、密钥格式化
 

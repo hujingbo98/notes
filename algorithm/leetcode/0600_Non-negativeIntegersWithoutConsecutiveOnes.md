@@ -4,7 +4,7 @@
 -->
 
 Problem Source : <https://leetcode-cn.com/problems/non-negative-integers-without-consecutive-ones/>
-Solution Source: <https://github.com/hujingbo98/algorithm/blob/master/source/leetcode/0600_Non-negativeIntegersWithoutConsecutiveOnes.cpp>
+Solution Source: <https://github.com/hujingbo98/notes/blob/master/code/source/leetcode/0600_Non-negativeIntegersWithoutConsecutiveOnes.cpp>
 
 600、不含连续1的非负整数
 

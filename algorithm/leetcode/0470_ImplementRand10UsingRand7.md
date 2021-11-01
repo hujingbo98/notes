@@ -4,7 +4,7 @@
 -->
 
 Problem Source : <https://leetcode-cn.com/problems/implement-rand10-using-rand7/>
-Solution Source : <https://github.com/hujingbo98/algorithm/blob/master/source/leetcode/0470_ImplementRand10UsingRand7.cpp>
+Solution Source : <https://github.com/hujingbo98/notes/blob/master/code/source/leetcode/0470_ImplementRand10UsingRand7.cpp>
 
 470、用 Rand7() 实现 Rand10()
 

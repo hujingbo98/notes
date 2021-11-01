@@ -5,7 +5,7 @@
 
 Problem Source : <https://leetcode-cn.com/problems/flatten-a-multilevel-doubly-linked-list/>
 
-Solution Source : <https://github.com/hujingbo98/algorithm/blob/master/source/leetcode/0430_FlattenAMultilevelDoublyLinkedList.cpp>
+Solution Source : <https://github.com/hujingbo98/notes/blob/master/code/source/leetcode/0430_FlattenAMultilevelDoublyLinkedList.cpp>
 
 ## 430、扁平化多级双向链表
 

@@ -3,7 +3,7 @@
  * @Date   : 2021-10-06
 -->
 
-Source : <https://github.com/hujingbo98/algorithm/blob/master/source/algorithm/sort/mergeSort.cpp>
+Source : <https://github.com/hujingbo98/notes/blob/master/code/source/algorithm/sort/mergeSort.cpp>
 
 ## 排序问题
 

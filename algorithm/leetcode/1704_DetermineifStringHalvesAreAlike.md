@@ -4,7 +4,7 @@
 -->
 
 Problem Source : <https://leetcode-cn.com/problems/determine-if-string-halves-are-alike/>
-Solution Source : <https://github.com/hujingbo98/algorithm/blob/master/source/leetcode/1704_DetermineifStringHalvesAreAlike.cpp>
+Solution Source : <https://github.com/hujingbo98/notes/blob/master/code/source/leetcode/1704_DetermineifStringHalvesAreAlike.cpp>
 
 1704、判断字符串的两半是否相似
 

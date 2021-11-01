@@ -3,7 +3,7 @@
  * @Date   : 2021-09-21
 -->
 
-Source : <https://github.com/hujingbo98/algorithm/blob/master/source/algorithm/sort/insertionSort.cpp>
+Source : <https://github.com/hujingbo98/notes/blob/master/code/source/algorithm/sort/insertionSort.cpp>
 
 ## 排序问题
 

@@ -4,7 +4,7 @@
 -->
 
 Problem Source : <https://leetcode-cn.com/problems/split-linked-list-in-parts/>
-Solution Source : <https://github.com/hujingbo98/algorithm/blob/master/source/leetcode/0725_SplitLinkedListInParts.cpp>
+Solution Source : <https://github.com/hujingbo98/notes/blob/master/code/source/leetcode/0725_SplitLinkedListInParts.cpp>
 
 ## 725、分隔链表
 

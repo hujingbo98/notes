@@ -5,7 +5,7 @@
 
 Problem Source : <https://leetcode-cn.com/problems/destination-city/>
 
-Solution Source : <https://github.com/hujingbo98/algorithm/blob/master/source/leetcode/1436_DestinationCity.cpp>
+Solution Source : <https://github.com/hujingbo98/notes/blob/master/code/source/leetcode/1436_DestinationCity.cpp>
 
 ## 1436、旅行终点站
 

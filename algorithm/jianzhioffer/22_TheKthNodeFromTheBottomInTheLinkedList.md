@@ -4,7 +4,7 @@
 -->
 
 Problem Source : <https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/>
-Solution Source : <https://github.com/hujingbo98/algorithm/blob/master/source/jianzhioffer/22_TheKthNodeFromTheBottomInTheLinkedList.cpp>
+Solution Source : <https://github.com/hujingbo98/notes/blob/master/code/source/jianzhioffer/22_TheKthNodeFromTheBottomInTheLinkedList.cpp>
 
 剑指 Offer 22、链表中倒数第k个节点
 

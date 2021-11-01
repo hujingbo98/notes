@@ -5,7 +5,7 @@
 
 Problem Source : <https://leetcode-cn.com/problems/word-search-ii/>
 
-Soluton Source : <https://github.com/hujingbo98/algorithm/blob/master/source/leetcode/0212_WordSearchII.cpp>
+Soluton Source : <https://github.com/hujingbo98/notes/blob/master/code/source/leetcode/0212_WordSearchII.cpp>
 
 212、单词搜索 II
 

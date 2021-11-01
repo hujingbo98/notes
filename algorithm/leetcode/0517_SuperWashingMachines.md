@@ -5,7 +5,7 @@
 
 Problem Source : <https://leetcode-cn.com/problems/super-washing-machines/>
 
-Solution Source : <https://github.com/hujingbo98/algorithm/blob/master/source/leetcode/0517_SuperWashingMachines.cpp>
+Solution Source : <https://github.com/hujingbo98/notes/blob/master/code/source/leetcode/0517_SuperWashingMachines.cpp>
 
 ## 517、超级洗衣机
 

@@ -5,7 +5,7 @@
 
 Problem Source : <https://leetcode-cn.com/problems/find-peak-element/>
 
-Solution Source : <https://github.com/hujingbo98/algorithm/blob/master/source/leetcode/0162_FindPeakElement.cpp>
+Solution Source : <https://github.com/hujingbo98/notes/blob/master/code/source/leetcode/0162_FindPeakElement.cpp>
 
 ## 162、寻找峰值
 

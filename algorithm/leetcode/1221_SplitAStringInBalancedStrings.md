@@ -4,7 +4,7 @@
 -->
 
 Problem Source : <https://leetcode-cn.com/problems/split-a-string-in-balanced-strings/>
-Solution Source : <https://github.com/hujingbo98/algorithm/blob/master/source/leetcode/1704_DetermineifStringHalvesAreAlike.cpp>
+Solution Source : <https://github.com/hujingbo98/notes/blob/master/code/source/leetcode/1704_DetermineifStringHalvesAreAlike.cpp>
 
 1221、分割平衡字符串
 

@@ -5,7 +5,7 @@
 
 Problem Source : <https://leetcode-cn.com/problems/longest-common-subsequence/>
 
-Solution Source : <https://github.com/hujingbo98/algorithm/blob/master/source/leetcode/1143_LongestCommonSubsequence.cpp>
+Solution Source : <https://github.com/hujingbo98/notes/blob/master/code/source/leetcode/1143_LongestCommonSubsequence.cpp>
 
 ## 1143、最长公共子序列
 

@@ -4,7 +4,7 @@
 -->
 
 Problem Source : <https://leetcode-cn.com/problems/2-keys-keyboard/>
-Solution Source : <https://github.com/hujingbo98/algorithm/blob/master/source/leetcode/0650_2KeysKeyboard.cpp>
+Solution Source : <https://github.com/hujingbo98/notes/blob/master/code/source/leetcode/0650_2KeysKeyboard.cpp>
 
 ## 650、只有两个键的键盘
 

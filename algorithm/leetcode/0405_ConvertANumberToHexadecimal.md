@@ -5,7 +5,7 @@
 
 Problem Source : <https://leetcode-cn.com/problems/convert-a-number-to-hexadecimal/>
 
-Solution Source : <https://github.com/hujingbo98/algorithm/blob/master/source/leetcode/0405_ConvertANumberToHexadecimal.cpp>
+Solution Source : <https://github.com/hujingbo98/notes/blob/master/code/source/leetcode/0405_ConvertANumberToHexadecimal.cpp>
 
 ## 405、数字转换为十六进制数
 

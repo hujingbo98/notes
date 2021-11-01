@@ -5,7 +5,7 @@
 
 Problem Source : <https://leetcode-cn.com/problems/rectangle-area/>
 
-Solution Source : <https://github.com/hujingbo98/algorithm/blob/master/source/leetcode/0223_RectangleArea.cpp>
+Solution Source : <https://github.com/hujingbo98/notes/blob/master/code/source/leetcode/0223_RectangleArea.cpp>
 
 ## 223、矩形面积
 

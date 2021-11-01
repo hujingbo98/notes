@@ -4,7 +4,7 @@
 -->
 
 Problem Source : <https://leetcode-cn.com/problems/smallest-k-lcci/>
-Solution Source : <https://github.com/hujingbo98/algorithm/blob/master/source/leetcodeInterviewProblem/17_14_SmallestKNumbers.cpp>
+Solution Source : <https://github.com/hujingbo98/notes/blob/master/code/source/leetcodeInterviewProblem/17_14_SmallestKNumbers.cpp>
 
 面试题 17.14、最小K个数
 

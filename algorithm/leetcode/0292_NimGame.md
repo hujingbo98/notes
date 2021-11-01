@@ -5,7 +5,7 @@
 
 Problem Source : <https://leetcode-cn.com/problems/nim-game/>
 
-Solution Source : <https://github.com/hujingbo98/algorithm/blob/master/source/leetcode/0292_NimGame.cpp>
+Solution Source : <https://github.com/hujingbo98/notes/blob/master/code/source/leetcode/0292_NimGame.cpp>
 
 ## 292、Nim 游戏
 

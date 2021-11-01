@@ -5,7 +5,7 @@
 
 Problem Source : <https://leetcode-cn.com/problems/decode-ways-ii/>
 
-Solution Source : <https://github.com/hujingbo98/algorithm/blob/master/source/leetcode/0639_DecodeWaysII.cpp>
+Solution Source : <https://github.com/hujingbo98/notes/blob/master/code/source/leetcode/0639_DecodeWaysII.cpp>
 
 ## 639、解码方法 II
 

@@ -4,7 +4,7 @@
 -->
 
 Problem Source : <https://leetcode-cn.com/problems/length-of-last-word/>
-Solution Source : <https://github.com/hujingbo98/algorithm/blob/master/source/leetcode/0058_LengthOfLastWord.cpp>
+Solution Source : <https://github.com/hujingbo98/notes/blob/master/code/source/leetcode/0058_LengthOfLastWord.cpp>
 
 ## 58、最后一个单词的长度
 

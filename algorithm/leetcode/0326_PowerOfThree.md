@@ -5,7 +5,7 @@
 
 Problem Source : <https://leetcode-cn.com/problems/power-of-three/>
 
-Solution Source : <https://github.com/hujingbo98/algorithm/blob/master/source/leetcode/0326_PowerOfThree.cpp>
+Solution Source : <https://github.com/hujingbo98/notes/blob/master/code/source/leetcode/0326_PowerOfThree.cpp>
 
 ## 326、3的幂
 

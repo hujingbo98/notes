@@ -5,7 +5,7 @@
 
 Problem Source : <https://leetcode-cn.com/problems/delete-operation-for-two-strings/>
 
-Solution Source : <https://github.com/hujingbo98/algorithm/blob/master/source/leetcode/0583_DeleteOperationForTwoStrings.cpp>
+Solution Source : <https://github.com/hujingbo98/notes/blob/master/code/source/leetcode/0583_DeleteOperationForTwoStrings.cpp>
 
 ## 583、两个字符串的删除操作
 
