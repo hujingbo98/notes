@@ -1,5 +1,9 @@
 # Notes
 
+## CPP
+
+[虚函数](https://github.com/hujingbo98/notes/blob/master/cpp/virtualFunction.md)
+
 ## 数据结构 (Data Structure)
 
 [哈希表](https://github.com/hujingbo98/notes/blob/master/document/algorithm.md)
