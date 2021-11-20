@@ -6,7 +6,7 @@
 
 ## 数据结构 (Data Structure)
 
-[哈希表](https://github.com/hujingbo98/notes/blob/master/document/algorithm.md)
+[哈希表](https://github.com/hujingbo98/notes/blob/master/datastruct/hashTable.md)
 
 ## 算法 (Algorithm)
 
