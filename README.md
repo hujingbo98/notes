@@ -21,7 +21,8 @@
 
 ### 服务器 (Server)
 
-[Reactor 模型](https://github.com/hujingbo98/notes/blob/master/network/server/reactor.md)
+[Reactor 模型](https://github.com/hujingbo98/notes/blob/master/network/server/reactor.md)|[负载均衡](https://github.com/hujingbo98/notes/blob/master/network/server/serverLoadBalancing.md)
+:-:|:-:
 
 ## 库 (Library)
 
