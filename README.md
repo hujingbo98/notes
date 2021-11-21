@@ -19,7 +19,19 @@
 [UDP](https://github.com/hujingbo98/notes/blob/master/network/udp.md)|[TCP](https://github.com/hujingbo98/notes/blob/master/network/tcp.md)
 :-:|:-:
 
-## 工具(Tools)
+### 服务器 (Server)
+
+[Reactor 模型](https://github.com/hujingbo98/notes/blob/master/network/server/reactor.md)
+
+## 库 (Library)
+
+### 网络库 (Network Library)
+
+[Libevent](https://github.com/hujingbo98/notes/blob/master/library/libevent.md)|[ZeroMQ](https://github.com/hujingbo98/notes/blob/master/library/zmq.md)
+:-:|:-:
+
+
+## 工具 (Tools)
 
 [Git](https://github.com/hujingbo98/notes/blob/master/tools/git.md)|[Vim](https://github.com/hujingbo98/notes/blob/master/tools/vim.md)|[GDB](https://github.com/hujingbo98/notes/blob/master/tools/gdb.md)
 :-:|:-:|:-:
