@@ -26,7 +26,7 @@
 
 ## 设计模式 (Design Pattern)
 
-[设计模式原则](https://github.com/hujingbo98/notes/blob/master/designPattern/designPattern.md)
+[设计模式原则](https://github.com/hujingbo98/notes/blob/master/designPatterns/designPattern.md)
 
 ## 库 (Library)
 
