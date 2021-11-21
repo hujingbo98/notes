@@ -16,7 +16,8 @@
 
 ## 操作系统 (Operating System)
 
-[进程](https://github.com/hujingbo98/notes/blob/master/operatingSystem/process.md)
+[进程](https://github.com/hujingbo98/notes/blob/master/operatingSystem/process.md)|[线程](https://github.com/hujingbo98/notes/blob/master/operatingSystem/thread.md)|[进程间通信](https://github.com/hujingbo98/notes/blob/master/operatingSystem/ipc.md)
+:-:|:-:|:-:
 
 ## 网络 (Network)
 
