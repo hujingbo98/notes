@@ -24,13 +24,16 @@
 [Reactor 模型](https://github.com/hujingbo98/notes/blob/master/network/server/reactor.md)|[负载均衡](https://github.com/hujingbo98/notes/blob/master/network/server/serverLoadBalancing.md)
 :-:|:-:
 
+## 设计模式 (Design Pattern)
+
+[设计模式原则](https://github.com/hujingbo98/notes/blob/master/designPattern/designPattern.md)
+
 ## 库 (Library)
 
 ### 网络库 (Network Library)
 
 [Libevent](https://github.com/hujingbo98/notes/blob/master/library/libevent.md)|[ZeroMQ](https://github.com/hujingbo98/notes/blob/master/library/zmq.md)
 :-:|:-:
-
 
 ## 工具 (Tools)
 
