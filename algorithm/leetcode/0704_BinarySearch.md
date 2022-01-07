@@ -4,10 +4,12 @@
 -->
 
 Problem Source : <https://leetcode-cn.com/problems/binary-search/>
+
 Solution Source : <https://github.com/hujingbo98/notes/blob/master/code/source/leetcode/0704_BinarySearch.cpp>
 
-704、二分查找
-给定一个 n 个元素有序的（升序）整型数组 nums 和一个目标值 target，写一个函数搜索 nums 中的 target，如果目标值存在返回下标，否则返回 -1。
+## 704、二分查找
+
+给定一个 n 个元素有序的（升序）整型数组 nums 和一个目标值 target，写一个函数搜索 nums 中的 target，如果目标值存在返回下标，否则返回 -1。
 
 示例 1:
 
@@ -17,7 +19,7 @@ Solution Source : <https://github.com/hujingbo98/notes/blob/master/code/source/l
 解释: 9 出现在 nums 中并且下标为 4
 ```
 
-示例 2:
+示例 2:
 
 ```txt
 输入: nums = [-1,0,3,5,9,12], target = 2
@@ -28,12 +30,12 @@ Solution Source : <https://github.com/hujingbo98/notes/blob/master/code/source/l
 提示：
 
 ```txt
-你可以假设 nums 中的所有元素是不重复的。
-n 将在 [1, 10000]之间。
-nums 的每个元素都将在 [-9999, 9999]之间。
+你可以假设 nums 中的所有元素是不重复的。
+n 将在 [1, 10000]之间。
+nums 的每个元素都将在 [-9999, 9999] 之间。
 ```
 
-方法：二分查找
+## 方法一：二分查找
 
 在升序数组 nums 中寻找目标值 target，对于特定下标 i，比较 num[i] 和 target 的大小：
 
@@ -48,18 +50,20 @@ nums 的每个元素都将在 [-9999, 9999]之间。
 二分查找的条件是查找范围不为空，即 left <= right。如果 target 在数组中，二分查找可以保证找到 target，返回 target 在数组中的下标。如果 target 不在数组中，则当 lefg > right 时结束查找，返回 -1。
 
 ```c++
-int search(const vector<int>& nums, int target) {
-    int left = 0, right = nums.size() - 1;
-    int mid;
-    while (left <= right) {
-        mid = (left + right) / 2;
-        if (target < nums[mid])
-            right = mid - 1;
-        else if (nums[mid] < target)
-            left = mid + 1;
-        else
-            return mid;
+class Solution {
+public:
+    int search(vector<int>& nums, int target) {
+        int left = 0, right = nums.size() - 1;
+        while (left <= right) {
+            int mid = left + ((right - left) >> 1);
+            if (nums[mid] == target)
+                return mid;
+            else if (nums[mid] < target)
+                left = mid + 1;
+            else
+                right = mid - 1;
+        }
+        return -1;
     }
-    return -1;
-}
+};
 ```

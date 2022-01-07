@@ -51,17 +51,16 @@ public:
      * 查找可以保证找到 target，返回 target 在数组中的下标。如果 target 不在数组中，
      * 则当 lefg > right 时结束查找，返回 -1。
      */    
-    int search(const vector<int>& nums, int target) {
+    int search(vector<int>& nums, int target) {
         int left = 0, right = nums.size() - 1;
-        int mid;
         while (left <= right) {
-            mid = (left + right) / 2;
-            if (target < nums[mid])
-                right = mid - 1;
+            int mid = left + ((right - left) >> 1);
+            if (nums[mid] == target)
+                return mid;
             else if (nums[mid] < target)
                 left = mid + 1;
             else
-                return mid;
+                right = mid - 1;
         }
         return -1;
     }
