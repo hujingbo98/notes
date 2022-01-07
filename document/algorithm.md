@@ -18,6 +18,13 @@
 
 其中 n 表示数列的长度。稳定表示排序后 2 个相等键值的顺序和排序之前它们的顺序相同，反之，则不稳定。
 
+## 数组
+
+编号/源地址|题目/解决方案|标签|难度
+:-:|:-|:-|-|
+[704](https://leetcode-cn.com/problems/binary-search/)|[二分查找](https://github.com/hujingbo98/notes/blob/master/algorithm/leetcode/0704_BinarySearch.md) / [source](https://github.com/hujingbo98/notes/blob/master/code/source/leetcode/0704_BinarySearch.cpp)|二分查找|简单
+[27](https://leetcode-cn.com/problems/remove-element/)|[移除元素](https://github.com/hujingbo98/notes/blob/master/algorithm/leetcode/0027_RemoveElement.md) / [source](https://github.com/hujingbo98/notes/blob/master/code/source/leetcode/0027_RemoveElement.cpp)|双指针|简单
+
 ## LeetCode
 
 编号/源地址|题目/解决方案|标签|难度
@@ -59,6 +66,7 @@
 [68](https://leetcode-cn.com/problems/text-justification)|[文本左右对齐](https://github.com/hujingbo98/notes/blob/master/algorithm/leetcode/0068_TextJustification.md) / [source](https://github.com/hujingbo98/notes/blob/master/code/source/leetcode/0068_TextJustification.cpp)|贪心、模拟|困难
 [58](https://leetcode-cn.com/problems/length-of-last-word/)|[最后一个单词的长度](https://github.com/hujingbo98/notes/blob/master/algorithm/leetcode/0058_LengthOfLastWord.md) / [source](https://github.com/hujingbo98/notes/blob/master/code/source/leetcode/0058_LengthOfLastWord.cpp)|反向查找字符|简单
 [36](https://leetcode-cn.com/problems/valid-sudoku/)|[有效的数独](https://github.com/hujingbo98/notes/blob/master/algorithm/leetcode/0036_ValidSudoku.md) / [source](https://github.com/hujingbo98/notes/blob/master/code/source/leetcode/0036_ValidSudoku.cpp)|暴力遍历一次|中等
+[27](https://leetcode-cn.com/problems/remove-element/)|[移除元素](https://github.com/hujingbo98/notes/blob/master/algorithm/leetcode/0027_RemoveElement.md) / [source](https://github.com/hujingbo98/notes/blob/master/code/source/leetcode/0027_RemoveElement.cpp)|双指针|简单
 [1](https://leetcode-cn.com/problems/two-sum/)|[两数之和](https://github.com/hujingbo98/notes/blob/master/algorithm/leetcode/0001_TwoSum.md) / [source](https://github.com/hujingbo98/notes/blob/master/code/source/leetcode/0001_TwoSum.cpp)|哈希表|简单
 
 ## LeetCode 中的剑指offer
