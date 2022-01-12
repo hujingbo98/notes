@@ -24,6 +24,7 @@
 :-:|:-|:-|-|
 [704](https://leetcode-cn.com/problems/binary-search/)|[二分查找](https://github.com/hujingbo98/notes/blob/master/algorithm/leetcode/0704_BinarySearch.md) / [source](https://github.com/hujingbo98/notes/blob/master/code/source/leetcode/0704_BinarySearch.cpp)|二分查找|简单
 [27](https://leetcode-cn.com/problems/remove-element/)|[移除元素](https://github.com/hujingbo98/notes/blob/master/algorithm/leetcode/0027_RemoveElement.md) / [source](https://github.com/hujingbo98/notes/blob/master/code/source/leetcode/0027_RemoveElement.cpp)|双指针|简单
+[209](https://leetcode-cn.com/problems/minimum-size-subarray-sum/)|[长度最小的子数组](https://github.com/hujingbo98/notes/blob/master/algorithm/leetcode/0209_MinimumSizeSubarraySum.md) / [source](https://github.com/hujingbo98/notes/blob/master/code/source/leetcode/0209_MinimumSizeSubarraySum.cpp)|滑动窗口|中等
 
 ## LeetCode
 
