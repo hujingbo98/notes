@@ -26,6 +26,12 @@
 [27](https://leetcode-cn.com/problems/remove-element/)|[移除元素](https://github.com/hujingbo98/notes/blob/master/algorithm/leetcode/0027_RemoveElement.md) / [source](https://github.com/hujingbo98/notes/blob/master/code/source/leetcode/0027_RemoveElement.cpp)|双指针|简单
 [209](https://leetcode-cn.com/problems/minimum-size-subarray-sum/)|[长度最小的子数组](https://github.com/hujingbo98/notes/blob/master/algorithm/leetcode/0209_MinimumSizeSubarraySum.md) / [source](https://github.com/hujingbo98/notes/blob/master/code/source/leetcode/0209_MinimumSizeSubarraySum.cpp)|滑动窗口|中等
 
+## 字符串
+
+编号/源地址|题目/解决方案|标签|难度
+:-:|:-|:-|-|
+[1894](https://leetcode-cn.com/problems/find-the-student-that-will-replace-the-chalk)|[找到需要补充粉笔的学生编号](https://github.com/hujingbo98/notes/blob/master/algorithm/leetcode/0001_TwoSum.md) / [source](https://github.com/hujingbo98/notes/blob/master/code/source/leetcode/1894_FindTheStudentThatWillReplaceTheChalk.cpp)|模拟、前缀和、二分查找|中等
+
 ## LeetCode
 
 编号/源地址|题目/解决方案|标签|难度
@@ -60,6 +66,7 @@
 [284](https://leetcode-cn.com/problems/peeking-iterator/)|[窥探迭代器](https://github.com/hujingbo98/notes/blob/master/algorithm/leetcode/0284_PeekingIterator.md) / [source](https://github.com/hujingbo98/notes/blob/master/code/source/leetcode/0284_PeekingIterator.cpp)|迭代器|中等
 [223](https://leetcode-cn.com/problems/rectangle-area/)|[矩形面积](https://github.com/hujingbo98/notes/blob/master/algorithm/leetcode/0223_RectangleArea.md) / [source](https://github.com/hujingbo98/notes/blob/master/code/source/leetcode/0223_RectangleArea.cpp)|坐标系|中等
 [212](https://leetcode-cn.com/problems/word-search-ii/)|[单词搜索 II](https://github.com/hujingbo98/notes/blob/master/algorithm/leetcode/0212_WordSearchII.md) / [source](https://github.com/hujingbo98/notes/blob/master/code/source/leetcode/0212_WordSearchII.cpp)|回溯、字典树(前缀树)|困难
+[209](https://leetcode-cn.com/problems/minimum-size-subarray-sum/)|[长度最小的子数组](https://github.com/hujingbo98/notes/blob/master/algorithm/leetcode/0209_MinimumSizeSubarraySum.md) / [source](https://github.com/hujingbo98/notes/blob/master/code/source/leetcode/0209_MinimumSizeSubarraySum.cpp)|滑动窗口|中等
 [187](https://leetcode-cn.com/problems/repeated-dna-sequences/)|[重复的DNA序列](https://github.com/hujingbo98/notes/blob/master/algorithm/leetcode/0187_RepeatedDNASequences.md) / [source](https://github.com/hujingbo98/notes/blob/master/code/source/leetcode/0187_RepeatedDNASequences.cpp)|哈希表、滑动窗口、位运算|中等
 [166](https://leetcode-cn.com/problems/fraction-to-recurring-decimal/)|[分数到小数](https://github.com/hujingbo98/notes/blob/master/algorithm/leetcode/0166_FractionToRecurringDecimal.md) / [source](https://github.com/hujingbo98/notes/blob/master/code/source/leetcode/0166_FractionToRecurringDecimal.cpp)|长除法、哈希表|中等
 [165](https://leetcode-cn.com/problems/compare-version-numbers)|[比较版本号](https://github.com/hujingbo98/notes/blob/master/algorithm/leetcode/0165_CompareVersionNumbers.md) / [source](https://github.com/hujingbo98/notes/blob/master/code/source/leetcode/0165_CompareVersionNumbers.cpp)|字符串切割、双指针|中等
